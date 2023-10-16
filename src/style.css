@@ -1,1 +1,10 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  text-align: center;
+  margin-top: 200px;
+  background-color: rgba(72, 253, 22, 0.844);
+}
+
+h1 {
+  color: black;
+  font-family: "Gabarito", fallback-fonts, sans-serif;
+}
